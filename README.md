@@ -1,2 +1,2 @@
 # skola
-skola la skola
+
